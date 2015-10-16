@@ -5,7 +5,7 @@ AWS Lambda for Python Examples
 ## Setup
 
 ```bash
-$ pyenv install 2.7.10
+$ pyenv install 2.7.9
 
 or 
 
