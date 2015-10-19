@@ -195,3 +195,6 @@ $ aws lambda create-function --region us-west-2 --function-name main --zip-file 
   "元近鉄の投手、盛田幸妃さん死去 脳腫瘍から復帰し登板"
 ]
 ```
+
+### Document
+* http://docs.aws.amazon.com/lambda/latest/dg/python-lambda.html
